@@ -64,6 +64,7 @@ This project merges two approaches:
 
 *   The **Minimax search structure with Alpha-Beta pruning and dice sampling** was inspired by and adapted from the code provided by Llasserre / llaki in the [llaki/BackgammonAI](https://github.com/llaki/BackgammonAI/tree/master) project. Thanks for that clear and effective initial work.
 *   The **detailed adaptive heuristic evaluation function** and the **ASCII game interface** originate from a previous personal script (`BKG-21_04.py`).
+*   (+) An unvaluable help has been provided by Google AI Studio.
 
 The goal was to leverage the predictive power of Minimax while benefiting from the nuances of an advanced, dynamic position evaluation.
 
