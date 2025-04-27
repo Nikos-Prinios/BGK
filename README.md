@@ -5,7 +5,7 @@ A sweet ASCII backgammon game (Minimax + Adaptive Heuristic)
 
 This project aims to create a strong Artificial Intelligence (AI) player for the game of Backgammon, designed to be a challenging opponent for a human player via a command-line (ASCII) interface.
 
-It represents a **hybrid approach**, combining a proven search structure with a sophisticated evaluation function derived from another project.
+It represents a **hybrid approach**, combining a proven search structure with a sophisticated evaluation function derived from a previous personnal project.
 
 ## Key Features
 
