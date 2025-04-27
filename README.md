@@ -62,7 +62,7 @@ It represents a **hybrid approach**, combining a proven search structure with a 
 
 This project merges two approaches:
 
-*   The **Minimax search structure with Alpha-Beta pruning and dice sampling** was inspired by and adapted from the code provided by Llasserre / llaki in the [llaki/BackgammonAI](https://github.com/llaki/BackgammonAI/tree/master) project. Thanks for that clear and effective initial work.
+*   The **Minimax search structure with Alpha-Beta pruning and dice sampling** was inspired by and adapted from the java code provided by Llasserre / llaki in the [llaki/BackgammonAI](https://github.com/llaki/BackgammonAI/tree/master) project. Thanks for that clear and effective initial work.
 *   The **detailed adaptive heuristic evaluation function** and the **ASCII game interface** originate from a previous personal script (`BKG-21_04.py`).
 *   (+) An unvaluable help has been provided by Google AI Studio.
 
