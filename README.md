@@ -1,4 +1,4 @@
-# BGK
+# BKG
 A sweet ASCII backgammon game (Minimax + Adaptive Heuristic)
 
 ## Goal
